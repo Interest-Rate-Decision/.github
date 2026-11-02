@@ -1,5 +1,7 @@
 ## InterestRateDecision.com
 
+[![Every central bank interest rate decision](https://raw.githubusercontent.com/Interest-Rate-Decision/.github/main/profile/banner.png)](https://interestratedecision.com/)
+
 Every central bank interest rate decision in one place: the Fed, ECB, Bank of England, Bank of Japan, Bank of Canada, RBA, RBNZ, SNB, Norges Bank and the Riksbank. Meeting dates and times, what economists expect, the result, and what the currency did in the minutes after, measured on one-minute candles with the same rules every time.
 
 **[interestratedecision.com](https://interestratedecision.com/)**
