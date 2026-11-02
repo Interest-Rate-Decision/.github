@@ -8,9 +8,9 @@ Every central bank interest rate decision in one place: the Fed, ECB, Bank of En
 
 | Repository | What it is |
 | --- | --- |
-| [central-bank-interest-rates](https://github.com/InterestRateDecision/central-bank-interest-rates) | Every decision since 2008 as CSV and JSON, updated automatically |
-| [interest-rate-decisions](https://github.com/InterestRateDecision/interest-rate-decisions) | Clients for JavaScript and Python, and a terminal command: `npx interest-rate-decisions` |
-| [widgets](https://github.com/InterestRateDecision/widgets) | Free widgets for any website: rate odds, countdown, calendar, rates, differentials, a rate cut calculator. WordPress plugin included |
+| [central-bank-interest-rates](https://github.com/Interest-Rate-Decision/central-bank-interest-rates) | Every decision since 2008 as CSV and JSON, updated automatically |
+| [interest-rate-decisions](https://github.com/Interest-Rate-Decision/interest-rate-decisions) | Clients for JavaScript and Python, and a terminal command: `npx interest-rate-decisions` |
+| [widgets](https://github.com/Interest-Rate-Decision/widgets) | Free widgets for any website: rate odds, countdown, calendar, rates, differentials, a rate cut calculator. WordPress plugin included |
 
 ### On the site
 
