@@ -13,6 +13,11 @@ Every central bank interest rate decision in one place: the Fed, ECB, Bank of En
 | [central-bank-interest-rates](https://github.com/Interest-Rate-Decision/central-bank-interest-rates) | Every decision since 2008 as CSV and JSON, updated automatically |
 | [interest-rate-decisions](https://github.com/Interest-Rate-Decision/interest-rate-decisions) | Clients for JavaScript and Python, and a terminal command: `npx interest-rate-decisions` |
 | [widgets](https://github.com/Interest-Rate-Decision/widgets) | Free widgets for any website: rate odds, countdown, calendar, rates, differentials, a rate cut calculator. WordPress plugin included |
+| [mt5-news-filter](https://github.com/Interest-Rate-Decision/mt5-news-filter) | An MQL5 and MQL4 include that pauses an expert advisor around the central bank decisions of the symbol's two currencies, with an indicator that draws the windows |
+| [tradingview-central-bank-decisions](https://github.com/Interest-Rate-Decision/tradingview-central-bank-decisions) | A TradingView indicator that marks each decision of the chart's two currencies' banks: past ones with the result, upcoming ones with a countdown |
+| [google-sheets](https://github.com/Interest-Rate-Decision/google-sheets) | `=RATE("fed")`, `=NEXT_DECISION("ecb")`, `=RATE_HISTORY("boe")` in Google Sheets, and a template to copy |
+| [notebooks](https://github.com/Interest-Rate-Decision/notebooks) | Jupyter notebooks: an event study of each bank's decisions on its currency pair |
+| [badges](https://interestratedecision.com/widget/#badges) | Live README badges: `![Fed](https://interestratedecision.com/badge/fed.svg)` |
 
 ### On the site
 
@@ -22,3 +27,12 @@ Every central bank interest rate decision in one place: the Fed, ECB, Bank of En
 - [Decision alerts](https://interestratedecision.com/alerts/) in Discord, Slack or Telegram
 
 Data is free to reuse with a link to [InterestRateDecision.com](https://interestratedecision.com/). A project of [Forexia](https://forexiapro.com/?via=interestratedecision).
+
+### The rest of the network
+
+- [ForexiaPro](https://github.com/ForexiaPro): trading tools, COT data and templates from Forexia Academy
+- [TradingSignalBot](https://github.com/TradingSignalBot): signal tools, a TradingView strategy pack and a webhook bridge
+- [PropSim-Enterprise](https://github.com/PropSim-Enterprise): prop firm rules, calculators and templates
+- [OpenCharts](https://github.com/dylanpersonguy/OpenCharts): open-source, self-hosted charting
+
+Part of the Forexia network: [InterestRateDecision.com](https://interestratedecision.com/) · [Forexia Academy](https://forexiapro.com/?via=interestratedecision) · [TradingSignalBot](https://tradingsignalbot.com/?via=interestratedecision) · [PropSim](https://propsim.markets/?via=interestratedecision) · [OpenCharts](https://github.com/dylanpersonguy/OpenCharts)
